@@ -33,3 +33,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 "# React_And_Next.js_e-commerce app" 
+" ecommerce using Sanity,_React.js, Next.js and Stripe as a payment mode" 
